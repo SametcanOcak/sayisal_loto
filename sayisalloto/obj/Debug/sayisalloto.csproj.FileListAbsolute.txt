@@ -1,0 +1,11 @@
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\bin\Debug\sayisalloto.exe.config
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\bin\Debug\sayisalloto.exe
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\bin\Debug\sayisalloto.pdb
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\obj\Debug\sayisalloto.csproj.AssemblyReference.cache
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\obj\Debug\sayisalloto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\obj\Debug\sayisalloto.Form1.resources
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\obj\Debug\sayisalloto.Properties.Resources.resources
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\obj\Debug\sayisalloto.csproj.GenerateResource.cache
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\obj\Debug\sayisalloto.csproj.CoreCompileInputs.cache
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\obj\Debug\sayisalloto.exe
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\sayisalloto\sayisalloto\obj\Debug\sayisalloto.pdb
